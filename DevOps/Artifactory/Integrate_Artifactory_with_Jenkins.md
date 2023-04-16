@@ -1,5 +1,5 @@
 # Integrate Artifactory with Jenkins
-
+youtube vido link:https://www.youtube.com/watch?v=WY29LtVQLhk&t=272s
 
 ## pre-requisites
 1. An Artifactory server [Click here to setup](https://youtu.be/eB6CDSR8VCA)
